@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como técnico em Automação
 - 🌱 Estudando desenvolvimento .NET, C#, ASP.NET e .NETCore
-- 💬 Estou sempre entusiasmado para começar um novo desafio
+- 💬 Estou sempre ansioso para começar um novo desafio
 
  <div>
   <a href="https://github.com/DiegoF27">
@@ -16,7 +16,7 @@
   <img align="center" alt="Diego-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Diego-yoda" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75ea55d3-a433-4fbb-aa82-d31111063dc0/d4mh6ry-6502ac89-97e3-4297-9a10-efcf023654ff.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZWE1NWQzLWE0MzMtNGZiYi1hYTgyLWQzMTExMTA2M2RjMFwvZDRtaDZyeS02NTAyYWM4OS05N2UzLTQyOTctOWExMC1lZmNmMDIzNjU0ZmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QX2XN5El0iZO7rBsxFw-Z1dT8F4MUuuFnYGAoMAk2w0">
+  <img align="right" alt="Diego-yoda" height="50" width="70" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75ea55d3-a433-4fbb-aa82-d31111063dc0/d4mh6ry-6502ac89-97e3-4297-9a10-efcf023654ff.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZWE1NWQzLWE0MzMtNGZiYi1hYTgyLWQzMTExMTA2M2RjMFwvZDRtaDZyeS02NTAyYWM4OS05N2UzLTQyOTctOWExMC1lZmNmMDIzNjU0ZmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QX2XN5El0iZO7rBsxFw-Z1dT8F4MUuuFnYGAoMAk2w0">
 </div>
 
 ##
