@@ -1,7 +1,7 @@
 ## Olá, muito prazer! Me chamo Diego Fernandes 😄
 
-- 🔭 Atualmente trabalho como técnico em Automação
-- 🌱 Estudando desenvolvimento .NET, C#, ASP.NET e .NETCore
+- 🔭 Atualmente trabalho como Técnico em Automação
+- 🌱 Estudando desenvolvimento .NET, C# e ASP.NET
 - 💬 Estou sempre ansioso para começar um novo desafio
 
  <div>
