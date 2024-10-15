@@ -1,9 +1,8 @@
 ## Olá, muito prazer! Me chamo Diego Fernandes 😄
 
 - 🔭 Atualmente trabalho como Técnico em Automação e Desenvolvedor Jr Voluntário no Programador.TV
-- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-computador-ios_filled-16.png"> Engenharia de Software e Desenvolvimento de Sistemas
-
-- 🌱 Estudando desenvolvimento .NET, C# e ASP.NET
+- 📚 Engenharia de Software e Desenvolvimento de Sistemas
+- 🖥️ Estudando desenvolvimento .NET, C# e ASP.NET
 - 💬 Estou sempre ansioso para começar um novo desafio
 
  <div>
