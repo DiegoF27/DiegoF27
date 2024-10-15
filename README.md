@@ -1,6 +1,6 @@
 ## Olá, muito prazer! Me chamo Diego Fernandes 😄
 
-- 🔭 Atualmente trabalho como Técnico em Automação
+- 🔭 Atualmente trabalho como Técnico em Automação e Desenvolvedor Jr Voluntário no Programador.TV
 - 🌱 Estudando desenvolvimento .NET, C# e ASP.NET
 - 💬 Estou sempre ansioso para começar um novo desafio
 
